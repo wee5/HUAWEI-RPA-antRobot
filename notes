@@ -1,0 +1,32 @@
+RPA介绍，安装
+应用：
+    web自动化
+    windows本地程序自动化
+    JAVA GUI类程序自动化
+脚本：
+    语言：
+        逻辑控制
+        变量和数据类型：
+            数据操作：
+                字符串
+                list
+                dictionary
+                datetime
+                正则表达式
+        系统命令：
+            内置命令
+            Powershell命令
+            bat脚本
+        Excel
+        内存表
+        json
+        文件
+        数据库
+        OCR
+        验证码
+        获取网页table保存为excel
+        
+
+管理中心：
+
+定位和解决问题
