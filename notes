@@ -42,8 +42,14 @@
             内置命令
             Powershell命令
             bat脚本
-        Excel
+        Excel命令
+            antRobot命令
+                基础操作
+                透视表操作
+            VBA
+            Python
         内存表
+            Pandas基础操作
         json
         文件
         数据库
